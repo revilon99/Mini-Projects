@@ -4,7 +4,7 @@
 	"description": "An artistic version of Chinese Whispers",
 	"dependencies": {
 		"csv-parser": "^2.3.2",
-		"express": "^4.17.1",
+		"express": "^4.17.3",
 		"socket.io": "^2.3.0"
 	}
 }
